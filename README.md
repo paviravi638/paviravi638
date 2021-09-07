@@ -1,19 +1,18 @@
-- 👋 Hi, I’m @paviravi638
+ <h2>👋 Hi, I’m pavithran,
+  <br>
+    <br>
+    <br>
+    <br>
 
-
-
-
-
-
-
-
-
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-paviravi638/paviravi638 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Student
+- I’m interested in python
+- I'm looking for your help to enhance my skill
+- 📫 How to reach me ..
+  <br>
+  <br>
+  mail: paviravi638@gmail.com
+  <br>
+  <br>
+  LinkedIn: https://www.linkedin.com/in/pavithran-r-2b23b3218/
+  <br>
+  
